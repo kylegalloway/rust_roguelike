@@ -1,5 +1,5 @@
 [package]
-name = "hellorust"
+name = "rust_roguelike"
 version = "0.1.0"
 authors = ["Kyle Galloway <kyle.galloway.1993@gmail.com>"]
 edition = "2018"
