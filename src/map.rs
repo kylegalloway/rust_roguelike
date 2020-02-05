@@ -1,4 +1,4 @@
-use super::{Player, Rect, Viewshed};
+use super::{Rect};
 use rltk::{Algorithm2D, BaseMap, Console, Point, RandomNumberGenerator, Rltk, RGB};
 use std::cmp::{max, min};
 extern crate specs;
